@@ -3,13 +3,10 @@
 </h1>
 
 <p>
-	I am a Canadian developer that like's to use Gamemaker Studio<br>
-	to make 3D games. I am also very skilled at making websites<br>
-	from scratch using PHP, with database integration using SQL.<br>
-	<br>
-	I am using Github to store all of my random projects in order<br>
-	to better organize my completed work. Aswell as offer my code<br>
-	to other developers who may have a use for it.<br>
+	I am a Canadian developer that like's to use Gamemaker Studio to make 3D games. I am also very skilled at making websites from scratch using PHP, with database integration using SQL.
+</p>
+<p>
+	I am using Github to store all of my random projects in order to better organize my completed work. Aswell as offer my code to other developers who may have a use for it.<br>
 </p>
 
 <h3>----- Skills -----</h3>
